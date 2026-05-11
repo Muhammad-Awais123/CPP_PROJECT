@@ -102,15 +102,6 @@ Suggestions and improvements are **always welcome!**
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Awais123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Awais123&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 
 ## 📞 Get in Touch
 
